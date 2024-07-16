@@ -1,6 +1,6 @@
 <script lang="ts">
 
-const url = "https://nuxt-test-lovat-three.vercel.app/";
+const url = "https://svelte-test-one-navy.vercel.app/";
 
 	let title = "Default Title";
 	let description = "Default description";
