@@ -4,9 +4,7 @@ const url = "https://svelte-test-one-navy.vercel.app/";
 
 	let title = "Default Title";
 	let description = "Default description";
-	let imageUrl =
-	  "https://images.pexels.com/photos/24516444/pexels-photo-24516444/free-photo-of-a-plate-of-food-with-a-candle-and-flowers.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1";
-  </script>
+	let imageUrl ="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg";</script>
   
   <svelte:head>
 	<title>{title}</title>
